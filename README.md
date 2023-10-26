@@ -1,2 +1,1 @@
-# Precurso_Henry
-Es una prueba
+Es un proyecto de prueba
